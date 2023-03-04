@@ -4,11 +4,8 @@ I am a final year student at Hanoi University of Science and Technology
 
 - 🔭 I’m currently working at [Magestore](https://www.magestore.com/) - World's #1 POS for Magento
 
-- 🌱 I’m currently learning **everything**
-
 - 👨‍💻 All of my personal projects are available at [https://github.com/kevin-bk](https://github.com/kevin-bk)
 
-- 📫 How to reach me **phitruong.nd2k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
