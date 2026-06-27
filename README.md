@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<div align="center">
 
-I am a final year student at Hanoi University of Science and Technology
+# Hi, I'm Kevin Nguyen
 
-- 🔭 I’m currently working at [Magestore](https://www.magestore.com/) - World's #1 POS for Magento
+Building AI-powered products for ecommerce, search, automation, and developer workflows.
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/kevin-bk](https://github.com/kevin-bk)
+<a href="https://apps.shopify.com/chizy-ai-chatbot">
+  <img src="https://img.shields.io/badge/Shopify%20App-Chizy%20AI%20Chatbot-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+</a>
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discordapp.com/users/PhiTruong#9741" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="kevin" width="60" /></a>
-</p>
+---
 
+I'm the builder behind **[Chizy: AI Chatbot & AI Agents](https://apps.shopify.com/chizy-ai-chatbot)**, a Shopify app that helps merchants automate customer support, recommend products, and turn store data into a 24/7 AI sales assistant.
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="40"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="nodejs" width="60" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="nginx" width="60" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="40"/> </a> </p>
+Most of my work sits at the intersection of practical software engineering and AI systems: product discovery, chatbots, RAG pipelines, agent harnesses, workflow automation, and tools that help teams ship faster.
+
+### Currently exploring
+
+* AI agents that can complete tasks end-to-end
+* Shopify apps with embedded AI experiences
+* Search, recommendation, and product discovery systems
+* Loop engineering: evaluation, feedback, testing, and reliable automation
+* Developer tools that turn messy workflows into repeatable systems
+
+### What I care about
+
+Building things that actually work in production: clear architecture, measurable quality, fast iteration, and good user experience.
+
+<div align="center">
+
+**Always experimenting. Always shipping.**
+
+</div>
