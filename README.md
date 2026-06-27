@@ -16,20 +16,7 @@ I'm the builder behind **[Chizy: AI Chatbot & AI Agents](https://apps.shopify.co
 
 Most of my work sits at the intersection of practical software engineering and AI systems: product discovery, chatbots, RAG pipelines, agent harnesses, workflow automation, and tools that help teams ship faster.
 
-### Currently exploring
-
-* AI agents that can complete tasks end-to-end
-* Shopify apps with embedded AI experiences
-* Search, recommendation, and product discovery systems
-* Loop engineering: evaluation, feedback, testing, and reliable automation
-* Developer tools that turn messy workflows into repeatable systems
-
 ### What I care about
 
 Building things that actually work in production: clear architecture, measurable quality, fast iteration, and good user experience.
 
-<div align="center">
-
-**Always experimenting. Always shipping.**
-
-</div>
