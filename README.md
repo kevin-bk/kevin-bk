@@ -15,8 +15,3 @@ Building AI-powered products for ecommerce, search, automation, and developer wo
 I'm the builder behind **[Chizy: AI Chatbot & AI Agents](https://apps.shopify.com/chizy-ai-chatbot)**, a Shopify app that helps merchants automate customer support, recommend products, and turn store data into a 24/7 AI sales assistant.
 
 Most of my work sits at the intersection of practical software engineering and AI systems: product discovery, chatbots, RAG pipelines, agent harnesses, workflow automation, and tools that help teams ship faster.
-
-### What I care about
-
-Building things that actually work in production: clear architecture, measurable quality, fast iteration, and good user experience.
-
