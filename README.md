@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kevin Nguyen
+# Hi, I'm Kevin
 
 Building AI-powered products for ecommerce, search, automation, and developer workflows.
 
